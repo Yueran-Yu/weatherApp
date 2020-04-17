@@ -1,0 +1,4 @@
+py -3 setup.py sdist
+py -3 setup.py bdist_wininst
+pip install pyinstaller
+pyinstaller weather_processor.py

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b3aeda6-466c-4a2e-8c83-0ee02d220989" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/weather_processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot_operations.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="weather" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="weather" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="weather" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/scrape_weather.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/db_operations.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/JsonContextManager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BDContextManager.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1ZbGtX2OTiHzqJPZAsWfBSPXzul" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.weather_processor">
+    <configuration name="JsonContextManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeatherProcessingApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JsonContextManager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeatherProcessingApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeatherProcessingApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrape_weather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeatherProcessingApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrape_weather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_processor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WeatherProcessingApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weather_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weather_processor" />
+        <item itemvalue="Python.plot_operations" />
+        <item itemvalue="Python.db_operations" />
+        <item itemvalue="Python.scrape_weather" />
+        <item itemvalue="Python.JsonContextManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3aeda6-466c-4a2e-8c83-0ee02d220989" name="Default Changelist" comment="" />
+      <created>1585100595160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585100595160</updated>
+      <workItem from="1585100597601" duration="6805000" />
+      <workItem from="1585239613394" duration="9000" />
+      <workItem from="1585283821478" duration="12000" />
+      <workItem from="1585284793477" duration="1970000" />
+      <workItem from="1585318684174" duration="21646000" />
+      <workItem from="1585409075450" duration="23752000" />
+      <workItem from="1585518944139" duration="2986000" />
+      <workItem from="1586306288123" duration="35060000" />
+      <workItem from="1586542349558" duration="3773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="221" key="#Inspections" timestamp="1585519143703">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="656" y="221" key="#Inspections/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585519143703" />
+    <state x="944" y="221" key="#SQL_Dialects" timestamp="1586370049454">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="944" y="221" key="#SQL_Dialects/0.23.1792.1065@0.23.1792.1065" timestamp="1586370049454" />
+    <state width="1548" height="395" key="GridCell.Tab.0.bottom" timestamp="1586548621249">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1548" height="395" key="GridCell.Tab.0.bottom/0.23.1792.1065@0.23.1792.1065" timestamp="1586548621249" />
+    <state width="1385" height="315" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585442701872" />
+    <state width="1385" height="343" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1065@0.23.1792.1065" timestamp="1585445236626" />
+    <state width="1429" height="198" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585522533771" />
+    <state width="1135" height="314" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585415882677" />
+    <state width="1548" height="395" key="GridCell.Tab.0.center" timestamp="1586548621248">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1548" height="395" key="GridCell.Tab.0.center/0.23.1792.1065@0.23.1792.1065" timestamp="1586548621248" />
+    <state width="1385" height="315" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585442701871" />
+    <state width="1385" height="343" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1065@0.23.1792.1065" timestamp="1585445236624" />
+    <state width="1429" height="198" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585522533771" />
+    <state width="1135" height="314" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585415882677" />
+    <state width="1548" height="395" key="GridCell.Tab.0.left" timestamp="1586548621248">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1548" height="395" key="GridCell.Tab.0.left/0.23.1792.1065@0.23.1792.1065" timestamp="1586548621248" />
+    <state width="1385" height="315" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585442701870" />
+    <state width="1385" height="343" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1065@0.23.1792.1065" timestamp="1585445236623" />
+    <state width="1429" height="198" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585522533770" />
+    <state width="1135" height="314" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585415882676" />
+    <state width="1548" height="395" key="GridCell.Tab.0.right" timestamp="1586548621248">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1548" height="395" key="GridCell.Tab.0.right/0.23.1792.1065@0.23.1792.1065" timestamp="1586548621248" />
+    <state width="1385" height="315" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585442701872" />
+    <state width="1385" height="343" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1065@0.23.1792.1065" timestamp="1585445236625" />
+    <state width="1429" height="198" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585522533771" />
+    <state width="1135" height="314" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585415882677" />
+    <state width="1117" height="406" key="GridCell.Tab.1.bottom" timestamp="1586391272124">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1117" height="406" key="GridCell.Tab.1.bottom/0.23.1792.1065@0.23.1792.1065" timestamp="1586391272124" />
+    <state width="1256" height="406" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585407310338" />
+    <state width="1117" height="406" key="GridCell.Tab.1.center" timestamp="1586391272123">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1117" height="406" key="GridCell.Tab.1.center/0.23.1792.1065@0.23.1792.1065" timestamp="1586391272123" />
+    <state width="1256" height="406" key="GridCell.Tab.1.center/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585407310338" />
+    <state width="1117" height="406" key="GridCell.Tab.1.left" timestamp="1586391272123">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1117" height="406" key="GridCell.Tab.1.left/0.23.1792.1065@0.23.1792.1065" timestamp="1586391272123" />
+    <state width="1256" height="406" key="GridCell.Tab.1.left/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585407310337" />
+    <state width="1117" height="406" key="GridCell.Tab.1.right" timestamp="1586391272124">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state width="1117" height="406" key="GridCell.Tab.1.right/0.23.1792.1065@0.23.1792.1065" timestamp="1586391272124" />
+    <state width="1256" height="406" key="GridCell.Tab.1.right/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585407310338" />
+    <state x="712" y="194" key="SettingsEditor" timestamp="1586368778389">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="712" y="194" key="SettingsEditor/0.23.1792.1065@0.23.1792.1065" timestamp="1586368778389" />
+    <state x="712" y="194" key="SettingsEditor/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585413962276" />
+    <state x="370" y="298" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585324917116">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="370" y="298" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585324917116" />
+    <state x="896" y="23" width="896" height="1064" key="dock-window-1" timestamp="1586318573272">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="896" y="23" width="896" height="1064" key="dock-window-1/0.23.1792.1065@0.23.1792.1065" timestamp="1586318573272" />
+    <state x="658" y="37" width="896" height="1065" key="dock-window-1/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585324553127" />
+    <state x="2697" y="290" width="797" height="830" key="dock-window-2" timestamp="1586320296073">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2697" y="290" width="797" height="830" key="dock-window-2/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1586320296073" />
+    <state x="90" y="23" width="686" height="953" key="dock-window-3" timestamp="1586354473149">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="90" y="23" width="686" height="953" key="dock-window-3/0.23.1792.1065@0.23.1792.1065" timestamp="1586354473149" />
+    <state x="455" y="50" width="896" height="1064" key="dock-window-4" timestamp="1586383388381">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="455" y="50" width="896" height="1064" key="dock-window-4/0.23.1792.1065@0.23.1792.1065" timestamp="1586383388381" />
+    <state x="721" y="260" width="670" height="676" key="search.everywhere.popup" timestamp="1585521664997">
+      <screen x="0" y="23" width="1792" height="1065" />
+    </state>
+    <state x="721" y="260" width="670" height="676" key="search.everywhere.popup/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585521664997" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self._events[self._count]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$ContextManager.coverage" NAME="JsonContextManager Coverage Results" MODIFIED="1585424933367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$plot_operations.coverage" NAME="plot_operations Coverage Results" MODIFIED="1586389576529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$scraper_example.coverage" NAME="scraper_example Coverage Results" MODIFIED="1585348999099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$ScraperExample.coverage" NAME="ScraperExample Coverage Results" MODIFIED="1585285326258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$weather_processor.coverage" NAME="weather_processor Coverage Results" MODIFIED="1586548551443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$scrape_weather.coverage" NAME="scrape_weather Coverage Results" MODIFIED="1585441852824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$request.coverage" NAME="request Coverage Results" MODIFIED="1585324919774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/urllib" />
+    <SUITE FILE_PATH="coverage/WeatherProcessingApp$db_operations.coverage" NAME="db_operations Coverage Results" MODIFIED="1585522296816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

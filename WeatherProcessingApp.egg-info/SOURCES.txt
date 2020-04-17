@@ -1,0 +1,7 @@
+README.md
+setup.py
+weather_processor.py
+WeatherProcessingApp.egg-info/PKG-INFO
+WeatherProcessingApp.egg-info/SOURCES.txt
+WeatherProcessingApp.egg-info/dependency_links.txt
+WeatherProcessingApp.egg-info/top_level.txt
